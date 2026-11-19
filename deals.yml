@@ -111,6 +111,14 @@ categories:
         description: Coding interview patterns with a structured, AI-assisted curriculum
         offer: 50% off
         status: live
+      - name: LabEx
+        domain: labex.io
+        url: https://labex.io/pricing
+        description: Browser-based hands-on labs for Linux, DevOps, cybersecurity and cloud
+        offer: "30% off Pro 1 year ($69.90); 50% off Pro 2 years ($99.90 one-time)"
+        code: 2026BF30 (1 year) / 2026BF50 (2 years)
+        valid: Ends Dec 7, 2026
+        status: live
 
   - id: books-reading
     faq_topic: tech book
