@@ -111,6 +111,13 @@ categories:
         description: Coding interview patterns with a structured, AI-assisted curriculum
         offer: 50% off
         status: live
+      - name: Enciphers VantagePoint
+        domain: enciphers.com
+        url: https://vantagepoint.enciphers.com/
+        description: Web, mobile, red team, blue team, AI, malware and CVE hacking labs, plus CWAE, CMAE and Multi Cloud Security Expert certs
+        offer: 70% off labs and certifications
+        valid: Nov 2 - Dec 15, 2026
+        status: live
 
   - id: books-reading
     faq_topic: tech book
