@@ -35,6 +35,15 @@ Our favourite deals this year for everyone working in **DevOps, Cloud, Kubernete
     </td>
     <td align="center" valign="top" width="25%">
       <sub>&nbsp;</sub><br>
+      <a href="https://www.practical-devsecops.com/black-friday-sale-2026/"><img src="https://www.google.com/s2/favicons?domain=practical-devsecops.com&sz=128" width="44" height="44" alt="Practical DevSecOps logo"></a><br>
+      <a href="https://www.practical-devsecops.com/black-friday-sale-2026/"><ins><b>Practical DevSecOps</b></ins></a><br>
+      <b>Black&nbsp;Friday&nbsp;Sale</b><br>
+      <b>15%&nbsp;Off&nbsp;on&nbsp;All&nbsp;Certifications</b><br>
+      <b>Save&nbsp;Up&nbsp;to&nbsp;$600&nbsp;on&nbsp;Bundles</b><br>
+      <sub>&nbsp;</sub>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <sub>&nbsp;</sub><br>
       <a href="https://tidd.ly/3YXTyO3?ref=devopscube.com"><img src="https://www.google.com/s2/favicons?domain=kodekloud.com&sz=128" width="44" height="44" alt="KodeKloud logo"></a><br>
       <a href="https://tidd.ly/3YXTyO3?ref=devopscube.com"><ins><b>KodeKloud</b></ins></a><br>
       <b>50%&nbsp;off</b><br>
@@ -47,6 +56,14 @@ Our favourite deals this year for everyone working in **DevOps, Cloud, Kubernete
       <b>Up&nbsp;to&nbsp;55%&nbsp;off</b><br>
       <sub>&nbsp;</sub>
     </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://tidd.ly/3Uc4okA"><img src="https://img.shields.io/badge/Code-40KUBE26CT-f97316?style=for-the-badge&labelColor=111827" alt="40KUBE26CT" height="28"></a><br><sub>&nbsp;</sub></td>
+    <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://www.practical-devsecops.com/black-friday-sale-2026/"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="28"></a><br><sub>&nbsp;</sub></td>
+    <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://tidd.ly/3YXTyO3?ref=devopscube.com"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="28"></a><br><sub>&nbsp;</sub></td>
+    <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://devopscube.com/recommends/udacity-plans/"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="28"></a><br><sub>&nbsp;</sub></td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="25%">
       <sub>&nbsp;</sub><br>
       <a href="https://bytebytego.com/?fpr=devopscube&ref=devopscube.com"><img src="https://www.google.com/s2/favicons?domain=bytebytego.com&sz=128" width="44" height="44" alt="ByteByteGo logo"></a><br>
@@ -54,14 +71,6 @@ Our favourite deals this year for everyone working in **DevOps, Cloud, Kubernete
       <b>50% off annual plans</b><br>
       <sub>&nbsp;</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://tidd.ly/3Uc4okA"><img src="https://img.shields.io/badge/Code-40KUBE26CT-f97316?style=for-the-badge&labelColor=111827" alt="40KUBE26CT" height="28"></a><br><sub>&nbsp;</sub></td>
-    <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://tidd.ly/3YXTyO3?ref=devopscube.com"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="28"></a><br><sub>&nbsp;</sub></td>
-    <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://devopscube.com/recommends/udacity-plans/"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="28"></a><br><sub>&nbsp;</sub></td>
-    <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://bytebytego.com/?fpr=devopscube&ref=devopscube.com"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="28"></a><br><sub>&nbsp;</sub></td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="25%">
       <sub>&nbsp;</sub><br>
       <a href="https://devopscube.com/recommends/pluralsight-free-trial/"><img src="https://www.google.com/s2/favicons?domain=pluralsight.com&sz=128" width="44" height="44" alt="Pluralsight & A Cloud Guru logo"></a><br>
@@ -83,23 +92,15 @@ Our favourite deals this year for everyone working in **DevOps, Cloud, Kubernete
       <b>Up&nbsp;to&nbsp;50%&nbsp;off</b><br>
       <sub>&nbsp;</sub>
     </td>
-    <td align="center" valign="top" width="25%">
-      <sub>&nbsp;</sub><br>
-      <a href="https://devopscube.com/recommends/cloudways/"><img src="https://www.google.com/s2/favicons?domain=cloudways.com&sz=128" width="44" height="44" alt="Cloudways logo"></a><br>
-      <a href="https://devopscube.com/recommends/cloudways/"><ins><b>Cloudways</b></ins></a><br>
-      <b>80% off for 2 months</b><br>
-      <sub>&nbsp;</sub>
-    </td>
   </tr>
   <tr>
+    <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://bytebytego.com/?fpr=devopscube&ref=devopscube.com"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="28"></a><br><sub>&nbsp;</sub></td>
     <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://devopscube.com/recommends/pluralsight-free-trial/"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="28"></a><br><sub>&nbsp;</sub></td>
     <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://devopscube.com/recommends/educative/"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="28"></a><br><sub>&nbsp;</sub></td>
     <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://courses.devopscube.com/?ref=devopscube.com"><img src="https://img.shields.io/badge/Code-CYBER50-f97316?style=for-the-badge&labelColor=111827" alt="CYBER50" height="28"></a><br><sub>&nbsp;</sub></td>
-    <td align="center" valign="middle" width="25%"><sub>&nbsp;</sub><br><a href="https://devopscube.com/recommends/cloudways/"><img src="https://img.shields.io/badge/Code-BFCM802-f97316?style=for-the-badge&labelColor=111827" alt="BFCM802" height="28"></a><br><sub>&nbsp;</sub></td>
   </tr>
 </table>
 <!-- TOP-PICKS:END -->
-
 ## 💡 Smart shopping tips
 
 <details>
