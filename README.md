@@ -10,7 +10,7 @@ web hosting and creator tools, checked and updated through Cyber Monday.</p>
 
 <!-- STATS:START -->
 
-[![deals live](https://img.shields.io/badge/deals_live-35_of_41-22c55e?style=for-the-badge)](#categories) ![black friday](https://img.shields.io/badge/black_friday-Nov_27%2C_2026-111827?style=for-the-badge) ![cyber monday](https://img.shields.io/badge/cyber_monday-Nov_30%2C_2026-6366f1?style=for-the-badge) ![last checked](https://img.shields.io/badge/last_checked-Nov_18%2C_2026-0ea5e9?style=for-the-badge)
+[![deals live](https://img.shields.io/badge/deals_live-36_of_42-22c55e?style=for-the-badge)](#categories) ![black friday](https://img.shields.io/badge/black_friday-Nov_27%2C_2026-111827?style=for-the-badge) ![cyber monday](https://img.shields.io/badge/cyber_monday-Nov_30%2C_2026-6366f1?style=for-the-badge) ![last checked](https://img.shields.io/badge/last_checked-Nov_18%2C_2026-0ea5e9?style=for-the-badge)
 <!-- STATS:END -->
 
 </div>
@@ -164,7 +164,7 @@ Our favourite deals this year for everyone working in **DevOps, Cloud, Kubernete
     </td>
     <td align="center" width="20%">
       <a href="#creator-tools">🎬<br><b>Creator Tools</b></a><br>
-      <sub>6 deals</sub>
+      <sub>7 deals</sub>
     </td>
   </tr>
 </table>
@@ -552,6 +552,13 @@ Writing and teaching what you know is one of the best ways to grow as an enginee
     <td align="center" nowrap><a href="https://try.elevenlabs.io/p4fh9dhwbmjw?ref=devopscube.com"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="26"></a></td>
     <td align="center">🟢&nbsp;Live</td>
   </tr>
+  <tr>
+        <td align="center"><img src="https://www.google.com/s2/favicons?domain=bundlewp.com&sz=128" width="32" height="32" alt="BundleWP logo"><br><a href="https://bundlewp.com/complete-business-software-bundle/"><ins><b>BundleWP</b></ins></a></td>
+              <td>Complete business software bundle — all 11 products: restaurant system, e-commerce system, billing software, WordPress plugins & tools. Lifetime access, license keys delivered automatically.</td>
+              <td align="center"><b>87% off — $129 for all 11 products (regular $1,029)</b><br><sub>⌛ Ends Dec 1, 2026</sub></td>
+        <td align="center" nowrap><a href="https://bundlewp.com/complete-business-software-bundle/"><img src="https://img.shields.io/badge/Code-BUNDLE129-f97316?style=for-the-badge&labelColor=111827" alt="BUNDLE129" height="26"></a></td>
+        <td align="center">🟢&nbsp;Live</td>
+  </tr>
 </table>
 
 <p align="right"><a href="#categories">⬆ Back to categories</a></p>
@@ -615,6 +622,7 @@ Black Friday 2026 is on **Nov 27, 2026** and Cyber Monday 2026 is on **Nov 30, 2
 - **Teachable**: Up to 30% off
 - **Kit (formerly ConvertKit)**: Up to 25% off annual Pro plan
 - **ElevenLabs**: Up to 55% off
+- …and 1 more in [Creator Tools](#creator-tools).
 
 </details>
 
@@ -627,13 +635,14 @@ Black Friday 2026 is on **Nov 27, 2026** and Cyber Monday 2026 is on **Nov 30, 2
 - `BFCM802`: Cloudways
 - `BFCM55`: Squarespace
 - `DCUBE20OFF`: Beehiiv
+- `BUNDLE129`: BundleWP
 
 </details>
 
 <details>
 <summary><b>How often is this Black Friday tracker updated?</b></summary>
 
-We check every deal during the sale and mark it 🟢 Live, ⏳ Soon or ⛔ Expired. Last checked: **Nov 18, 2026**. 35 of 41 deals are live.
+We check every deal during the sale and mark it 🟢 Live, ⏳ Soon or ⛔ Expired. Last checked: **Nov 18, 2026**. 36 of 42 deals are live.
 
 </details>
 <!-- FAQ:END -->

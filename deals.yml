@@ -340,3 +340,11 @@ categories:
         description: AI voice-over for course videos and demos
         offer: Up to 55% off
         status: live
+        - name: BundleWP
+        domain: bundlewp.com
+        url: https://bundlewp.com/complete-business-software-bundle/
+        description: "Complete business software bundle — all 11 products: restaurant system, e-commerce system, billing software, WordPress plugins & tools. Lifetime access, license keys delivered automatically."
+        offer: "87% off — $129 for all 11 products (regular $1,029)"
+        code: BUNDLE129
+        valid: Ends Dec 1, 2026
+        status: live
