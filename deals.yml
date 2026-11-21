@@ -112,6 +112,13 @@ categories:
         offer: 50% off
         status: live
 
+      - name: 8kSec Academy
+        domain: academy.8ksec.io
+        url: https://academy.8ksec.io/
+        description: On-demand mobile and AI security training with five certification tracks and hands-on labs
+        offer: 15% off with code 8KSECBLACKFRIDAY
+        status: live
+
   - id: books-reading
     faq_topic: tech book
     emoji: "📚"
