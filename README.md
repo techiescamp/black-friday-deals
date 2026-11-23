@@ -10,7 +10,7 @@ web hosting and creator tools, checked and updated through Cyber Monday.</p>
 
 <!-- STATS:START -->
 
-[![deals live](https://img.shields.io/badge/deals_live-35_of_41-22c55e?style=for-the-badge)](#categories) ![black friday](https://img.shields.io/badge/black_friday-Nov_27%2C_2026-111827?style=for-the-badge) ![cyber monday](https://img.shields.io/badge/cyber_monday-Nov_30%2C_2026-6366f1?style=for-the-badge) ![last checked](https://img.shields.io/badge/last_checked-Nov_18%2C_2026-0ea5e9?style=for-the-badge)
+[![deals live](https://img.shields.io/badge/deals_live-36_of_42-22c55e?style=for-the-badge)](#categories) ![black friday](https://img.shields.io/badge/black_friday-Nov_27%2C_2026-111827?style=for-the-badge) ![cyber monday](https://img.shields.io/badge/cyber_monday-Nov_30%2C_2026-6366f1?style=for-the-badge) ![last checked](https://img.shields.io/badge/last_checked-Nov_18%2C_2026-0ea5e9?style=for-the-badge)
 <!-- STATS:END -->
 
 </div>
@@ -148,7 +148,7 @@ Our favourite deals this year for everyone working in **DevOps, Cloud, Kubernete
   <tr>
     <td align="center" width="20%">
       <a href="#learning-platforms">🎓<br><b>Learning Platforms</b></a><br>
-      <sub>13 deals</sub>
+      <sub>14 deals</sub>
     </td>
     <td align="center" width="20%">
       <a href="#books-reading">📚<br><b>Books & Reading</b></a><br>
@@ -280,6 +280,13 @@ Black Friday is the cheapest time of the year to level up. These platforms cover
     <td>Coding interview patterns with a structured, AI-assisted curriculum</td>
     <td align="center"><b>50%&nbsp;off</b></td>
     <td align="center" nowrap><a href="https://devopscube.com/recommends/algomonster"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="26"></a></td>
+    <td align="center">🟢&nbsp;Live</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=academy.8ksec.io&sz=128" width="32" height="32" alt="8kSec Academy logo"><br><a href="https://academy.8ksec.io/"><ins><b>8kSec Academy</b></ins></a></td>
+    <td>On-demand mobile and AI security training with five certification tracks and hands-on labs</td>
+    <td align="center"><b>15% off with code BLACKFRIDAY15</b></td>
+    <td align="center" nowrap><a href="https://academy.8ksec.io/"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="26"></a></td>
     <td align="center">🟢&nbsp;Live</td>
   </tr>
 </table>
@@ -579,7 +586,7 @@ Black Friday 2026 is on **Nov 27, 2026** and Cyber Monday 2026 is on **Nov 30, 2
 - **ByteByteGo**: 50% off annual plans
 - **Pluralsight & A Cloud Guru**: 60% off annual plans
 - **Educative**: Up to 72% off Unlimited plans
-- …and 6 more in [Learning Platforms](#learning-platforms).
+- …and 7 more in [Learning Platforms](#learning-platforms).
 
 </details>
 
@@ -633,7 +640,7 @@ Black Friday 2026 is on **Nov 27, 2026** and Cyber Monday 2026 is on **Nov 30, 2
 <details>
 <summary><b>How often is this Black Friday tracker updated?</b></summary>
 
-We check every deal during the sale and mark it 🟢 Live, ⏳ Soon or ⛔ Expired. Last checked: **Nov 18, 2026**. 35 of 41 deals are live.
+We check every deal during the sale and mark it 🟢 Live, ⏳ Soon or ⛔ Expired. Last checked: **Nov 18, 2026**. 36 of 42 deals are live.
 
 </details>
 <!-- FAQ:END -->
