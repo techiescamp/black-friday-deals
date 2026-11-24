@@ -111,6 +111,14 @@ categories:
         description: Coding interview patterns with a structured, AI-assisted curriculum
         offer: 50% off
         status: live
+      - name: CyberWarFare Labs
+        domain: cyberwarfare.live
+        url: https://cyberwarfare.live/
+        description: Hands-on cybersecurity training with practical labs and professional certifications
+        offer: Up to 90% off course bundles, certifications from $5, and Infinity Yearly for $49 with 2 free certifications
+        code: INFINITY49 (Yearly), INFINITY5 (Monthly)
+        valid: Ends Dec 1, 2026
+        status: live
 
   - id: books-reading
     faq_topic: tech book
