@@ -492,6 +492,13 @@ Run your tech blog, portfolio, demo app or side project. Hosting has some of the
     <td align="center" nowrap><a href="https://squarespace.syuh.net/9Va5X0"><img src="https://img.shields.io/badge/Code-BFCM55-f97316?style=for-the-badge&labelColor=111827" alt="BFCM55" height="26"></a></td>
     <td align="center">🟢&nbsp;Live</td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://surl.li/img/favicon.ico" width="32" height="32" alt="Squarespace logo"><br><a href="https://surl.li"><ins><b>surl.li</b></ins></a></td>
+    <td>Fast URL shortener with custom domains, QR codes, click analytics, REST API, and an MCP server for AI agents.</td>
+    <td align="center"><b>60% OFF all plans</b></td>
+    <td align="center" nowrap><a href="https://surl.li/en"><img src="https://img.shields.io/badge/Get_Deal-f97316?style=for-the-badge" alt="Get Deal" height="26"></a></td>
+    <td align="center">🟢&nbsp;Live</td>
+  </tr>
 </table>
 
 <p align="right"><a href="#categories">⬆ Back to categories</a></p>
