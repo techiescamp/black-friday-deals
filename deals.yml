@@ -294,6 +294,14 @@ categories:
         offer: 55% off select plans
         code: BFCM55
         status: live
+      - name: Crabsmith
+        domain: crabsmith.com
+        url: https://crabsmith.com/#pricing
+        description: Hosted control panel for your own Ubuntu VPS, deploys over SSH with Caddy HTTPS
+        offer: 40% off the first payment of any plan
+        code: BLACKFRIDAY40
+        valid: Ends Dec 1
+        status: live
 
   - id: creator-tools
     faq_topic: creator tool
