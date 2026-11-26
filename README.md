@@ -10,7 +10,7 @@ web hosting and creator tools, checked and updated through Cyber Monday.</p>
 
 <!-- STATS:START -->
 
-[![deals live](https://img.shields.io/badge/deals_live-26_of_41-22c55e?style=for-the-badge)](#categories) ![black friday](https://img.shields.io/badge/black_friday-Nov_27%2C_2026-111827?style=for-the-badge) ![cyber monday](https://img.shields.io/badge/cyber_monday-Nov_30%2C_2026-6366f1?style=for-the-badge) ![last checked](https://img.shields.io/badge/last_checked-Nov_24%2C_2026-0ea5e9?style=for-the-badge)
+[![deals live](https://img.shields.io/badge/deals_live-27_of_42-22c55e?style=for-the-badge)](#categories) ![black friday](https://img.shields.io/badge/black_friday-Nov_27%2C_2026-111827?style=for-the-badge) ![cyber monday](https://img.shields.io/badge/cyber_monday-Nov_30%2C_2026-6366f1?style=for-the-badge) ![last checked](https://img.shields.io/badge/last_checked-Nov_24%2C_2026-0ea5e9?style=for-the-badge)
 <!-- STATS:END -->
 
 </div>
@@ -160,7 +160,7 @@ Our favourite deals this year for everyone working in **DevOps, Cloud, Kubernete
     </td>
     <td align="center" width="20%">
       <a href="#hosting-platforms">🌐<br><b>Hosting Platforms</b></a><br>
-      <sub>10 deals</sub>
+      <sub>11 deals</sub>
     </td>
     <td align="center" width="20%">
       <a href="#creator-tools">🎬<br><b>Creator Tools</b></a><br>
@@ -492,6 +492,13 @@ Run your tech blog, portfolio, demo app or side project. Hosting has some of the
     <td align="center" nowrap><a href="https://squarespace.syuh.net/9Va5X0"><img src="https://img.shields.io/badge/Code-BFCM55-f97316?style=for-the-badge&labelColor=111827" alt="BFCM55" height="26"></a></td>
     <td align="center">🟢&nbsp;Live</td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=crabsmith.com&sz=128" width="32" height="32" alt="Crabsmith logo"><br><a href="https://crabsmith.com/#pricing"><ins><b>Crabsmith</b></ins></a></td>
+    <td>Hosted control panel for your own Ubuntu VPS, deploys over SSH with Caddy HTTPS</td>
+    <td align="center"><b>40% off any plan, for life</b><br><sub>⌛ Ends Dec 1</sub></td>
+    <td align="center" nowrap><a href="https://crabsmith.com/#pricing"><img src="https://img.shields.io/badge/Code-BLACKFRIDAY40-f97316?style=for-the-badge&labelColor=111827" alt="BLACKFRIDAY40" height="26"></a></td>
+    <td align="center">🟢&nbsp;Live</td>
+  </tr>
 </table>
 
 <p align="right"><a href="#categories">⬆ Back to categories</a></p>
@@ -591,7 +598,7 @@ Black Friday 2026 is on **Nov 27, 2026** and Cyber Monday 2026 is on **Nov 30, 2
 - **Hostinger**: Up to 83% off
 - **Hosting.com (formerly A2 Hosting)**: Up to 89% off
 - **ChemiCloud**: Up to 88% off
-- …and 5 more in [Hosting Platforms](#hosting-platforms).
+- …and 6 more in [Hosting Platforms](#hosting-platforms).
 
 </details>
 
@@ -612,6 +619,7 @@ Black Friday 2026 is on **Nov 27, 2026** and Cyber Monday 2026 is on **Nov 30, 2
 - `CYBER50`: DevOpsCube Courses
 - `BFCM802`: Cloudways
 - `BFCM55`: Squarespace
+- `BLACKFRIDAY40`: Crabsmith
 - `DCUBE20OFF`: Beehiiv
 
 </details>
@@ -619,7 +627,7 @@ Black Friday 2026 is on **Nov 27, 2026** and Cyber Monday 2026 is on **Nov 30, 2
 <details>
 <summary><b>How often is this Black Friday tracker updated?</b></summary>
 
-We check every deal during the sale and mark it 🟢 Live, ⏳ Soon or ⛔ Expired. Last checked: **Nov 24, 2026**. 26 of 41 deals are live.
+We check every deal during the sale and mark it 🟢 Live, ⏳ Soon or ⛔ Expired. Last checked: **Nov 24, 2026**. 27 of 42 deals are live.
 
 </details>
 <!-- FAQ:END -->
