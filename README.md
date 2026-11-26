@@ -495,7 +495,7 @@ Run your tech blog, portfolio, demo app or side project. Hosting has some of the
   <tr>
     <td align="center"><img src="https://www.google.com/s2/favicons?domain=crabsmith.com&sz=128" width="32" height="32" alt="Crabsmith logo"><br><a href="https://crabsmith.com/#pricing"><ins><b>Crabsmith</b></ins></a></td>
     <td>Hosted control panel for your own Ubuntu VPS, deploys over SSH with Caddy HTTPS</td>
-    <td align="center"><b>40% off the first payment of any plan</b><br><sub>⌛ Ends Dec 1</sub></td>
+    <td align="center"><b>40% off any plan, for life</b><br><sub>⌛ Ends Dec 1</sub></td>
     <td align="center" nowrap><a href="https://crabsmith.com/#pricing"><img src="https://img.shields.io/badge/Code-BLACKFRIDAY40-f97316?style=for-the-badge&labelColor=111827" alt="BLACKFRIDAY40" height="26"></a></td>
     <td align="center">🟢&nbsp;Live</td>
   </tr>

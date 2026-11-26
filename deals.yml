@@ -298,7 +298,7 @@ categories:
         domain: crabsmith.com
         url: https://crabsmith.com/#pricing
         description: Hosted control panel for your own Ubuntu VPS, deploys over SSH with Caddy HTTPS
-        offer: 40% off the first payment of any plan
+        offer: 40% off any plan, for life
         code: BLACKFRIDAY40
         valid: Ends Dec 1
         status: live
