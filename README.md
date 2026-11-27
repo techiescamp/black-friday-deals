@@ -30,7 +30,7 @@ Our favourite deals this year for everyone working in **DevOps, Cloud, Kubernete
       <sub>&nbsp;</sub><br>
       <a href="https://kube.promo/deals/linux-foundation-cyber-monday/"><img src="https://www.google.com/s2/favicons?domain=linuxfoundation.org&sz=128" width="44" height="44" alt="Linux Foundation Certifications logo"></a><br>
       <a href="https://kube.promo/deals/linux-foundation-cyber-monday/"><ins><b>Linux Foundation Certifications</b></ins></a><br>
-      <b>50% off certs and courses</b><br>
+      <b>Up&nbsp;to&nbsp;65%&nbsp;off</b><br>
       <sub>&nbsp;</sub>
     </td>
     <td align="center" valign="top" width="25%">
@@ -384,7 +384,7 @@ Prove your skills with a certification. The Linux Foundation Black Friday and Cy
   <tr>
     <td align="center"><img src="https://www.google.com/s2/favicons?domain=linuxfoundation.org&sz=128" width="32" height="32" alt="Linux Foundation Certifications logo"><br><a href="https://kube.promo/deals/linux-foundation-cyber-monday/"><ins><b>Linux Foundation Certifications</b></ins></a></td>
     <td>LFCS, PCA, ICA, CAPA and every other LF cert, plus courses</td>
-    <td align="center"><b>50% off certs and courses</b><br><sub>⌛ Ends Dec 4</sub></td>
+    <td align="center"><b>Up&nbsp;to&nbsp;65%&nbsp;off</b><br><sub>⌛ Ends Dec 4</sub></td>
     <td align="center" nowrap><a href="https://kube.promo/deals/linux-foundation-cyber-monday/"><img src="https://img.shields.io/badge/Code-BFCM26CCCT-f97316?style=for-the-badge&labelColor=111827" alt="BFCM26CCCT" height="26"></a></td>
     <td align="center">🟢&nbsp;Live</td>
   </tr>
