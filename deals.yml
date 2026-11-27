@@ -213,20 +213,13 @@ categories:
         code: BFCM26CCCT
         valid: Ends Dec 4
         status: live
-      - name: Linux Foundation SkillCreds
-        domain: linuxfoundation.org
-        url: https://tidd.ly/3Uc4okA
-        description: Short skill certs for Git, Bash, Helm, YAML and Vim
-        offer: 40% off
-        code: soon
-        status: soon
       - name: FinOps Certifications
         domain: finops.org
-        url: https://learn.finops.org/path/finops-certified-practitioner-self-paced
+        url: https://kube.promo/provider/finops-certification-discount-codes/215/
         description: FinOps Certified Practitioner, Engineer, FOCUS Analyst and FinOps for AI
-        offer: 20% off
-        code: soon
-        status: soon
+        offer: 30% off
+        code: cyber2026comtechies
+        status: live
 
   - id: hosting-platforms
     faq_topic: web hosting
