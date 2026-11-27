@@ -341,3 +341,10 @@ categories:
         description: AI voice-over for course videos and demos
         offer: Up to 55% off
         status: live
+
+      - name: BrandShield & ShipBastion Suite
+        domain: brand.shipbastion.com
+        url: https://brand.shipbastion.com
+        description: Free 78-TLD instant domain, RDAP, USPTO & typosquatting checker plus pre-launch web security, email DNS & AI search audits
+        offer: 83% off 4-in-1 Launch Suite ($5 one-time, reg. $29); BrandShield 100% free
+        status: live
