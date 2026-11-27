@@ -6,7 +6,7 @@
 # status:  live | soon | expired
 
 year: 2026
-last_updated: 2026-11-24
+last_updated: 2026-11-27
 black_friday: 2026-11-27
 cyber_monday: 2026-11-30
 
@@ -145,7 +145,8 @@ categories:
     title: Certifications
     intro: >-
       Prove your skills with a certification. The Linux Foundation Black Friday and Cyber
-      Monday deals are coming soon. We will add the new codes here as soon as they go live.
+      Monday sale is live from November 27 to December 4: 50% off single exams and up to 60%
+      off bundles. Copy the code and paste it at checkout.
     guide:
       text: Full Linux Foundation coupon guide
       url: https://github.com/techiescamp/linux-foundation-coupon
@@ -153,59 +154,65 @@ categories:
       - name: Kubernetes Certifications
         domain: cncf.io
         logos: [.github/assets/certs/cka.svg, .github/assets/certs/ckad.svg, .github/assets/certs/cks.png, .github/assets/certs/kcna.svg, .github/assets/certs/kcsa.svg]
-        url: https://tidd.ly/3Uc4okA
+        url: https://kube.promo/deals/linux-foundation-cyber-monday/
         description: CKA, CKAD, CKS, KCNA and KCSA. Every single exam in the CNCF Kubernetes track
-        offer: 40% off every exam
-        code: soon
-        status: soon
+        offer: 50% off every exam
+        code: BFCM26CCCT
+        valid: Ends Dec 4
+        status: live
       - name: Professional Bundles
         domain: cncf.io
         logos: [.github/assets/certs/cka.svg, .github/assets/certs/ckad.svg, .github/assets/certs/cks.png]
-        url: https://tidd.ly/3Uc4okA
+        url: https://kube.promo/deals/linux-foundation-cyber-monday/
         description: CKA + CKAD, CKA + CKS, or all three together (CKA + CKAD + CKS)
-        offer: Up to 47% off
-        code: soon
-        status: soon
+        offer: 60% off
+        code: BFCM26BUNCT
+        valid: Ends Dec 4
+        status: live
       - name: Associate + Professional Bundles
         domain: cncf.io
         logos: [.github/assets/certs/kcna.svg, .github/assets/certs/cka.svg, .github/assets/certs/kcsa.svg, .github/assets/certs/cks.png]
-        url: https://tidd.ly/3Uc4okA
+        url: https://kube.promo/deals/linux-foundation-cyber-monday/
         description: KCNA + CKA or KCSA + CKS. Start with the associate exam, then go pro
-        offer: Up to 47% off
-        code: soon
-        status: soon
+        offer: 60% off
+        code: BFCM26BUNCT
+        valid: Ends Dec 4
+        status: live
       - name: Associate Bundle
         domain: cncf.io
         logos: [.github/assets/certs/kcna.svg, .github/assets/certs/kcsa.svg]
-        url: https://tidd.ly/3Uc4okA
+        url: https://kube.promo/kcna-kcsa
         description: KCNA + KCSA. Both associate-level exams together
-        offer: Up to 47% off
-        code: soon
-        status: soon
+        offer: 60% off
+        code: BFCM26BUNCT
+        valid: Ends Dec 4
+        status: live
       - name: Kubestronaut Bundle
         domain: cncf.io
         logos: [.github/assets/certs/kubestronaut.svg]
-        url: https://tidd.ly/3Uc4okA
+        url: https://kube.promo/recommends/kubestronaut-bundle/
         description: CKA, CKAD, CKS, KCNA and KCSA. All 5 exams for the Kubestronaut title
-        offer: Up to 47% off
-        code: soon
-        status: soon
+        offer: 50% off
+        code: BFCM26K8SCT
+        valid: Ends Dec 4
+        status: live
       - name: Golden Kubestronaut Bundle
         domain: cncf.io
         logos: [.github/assets/certs/golden-kubestronaut.svg]
-        url: https://tidd.ly/3Uc4okA
+        url: https://kube.promo/deals/linux-foundation-cyber-monday/
         description: All 16 CNCF and LF certs, including PCA, ICA, CAPA and LFCS
-        offer: 40% off bundle price
-        code: soon
-        status: soon
+        offer: 50% off
+        code: BFCM26K8SCT
+        valid: Ends Dec 4
+        status: live
       - name: Linux Foundation Certifications
         domain: linuxfoundation.org
-        url: https://tidd.ly/3Uc4okA
+        url: https://kube.promo/deals/linux-foundation-cyber-monday/
         description: LFCS, PCA, ICA, CAPA and every other LF cert, plus courses
-        offer: 40% off sitewide
-        code: soon
-        tag: .github/assets/starts-nov-26.svg   # animated start-date tag on the Top picks card
-        status: soon
+        offer: 50% off certs and courses
+        code: BFCM26CCCT
+        valid: Ends Dec 4
+        status: live
       - name: Linux Foundation SkillCreds
         domain: linuxfoundation.org
         url: https://tidd.ly/3Uc4okA
