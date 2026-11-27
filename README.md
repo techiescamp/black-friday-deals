@@ -10,7 +10,7 @@ web hosting and creator tools, checked and updated through Cyber Monday.</p>
 
 <!-- STATS:START -->
 
-[![deals live](https://img.shields.io/badge/deals_live-33_of_41-22c55e?style=for-the-badge)](#categories) ![black friday](https://img.shields.io/badge/black_friday-Nov_27%2C_2026-111827?style=for-the-badge) ![cyber monday](https://img.shields.io/badge/cyber_monday-Nov_30%2C_2026-6366f1?style=for-the-badge) ![last checked](https://img.shields.io/badge/last_checked-Nov_27%2C_2026-0ea5e9?style=for-the-badge)
+[![deals live](https://img.shields.io/badge/deals_live-34_of_40-22c55e?style=for-the-badge)](#categories) ![black friday](https://img.shields.io/badge/black_friday-Nov_27%2C_2026-111827?style=for-the-badge) ![cyber monday](https://img.shields.io/badge/cyber_monday-Nov_30%2C_2026-6366f1?style=for-the-badge) ![last checked](https://img.shields.io/badge/last_checked-Nov_27%2C_2026-0ea5e9?style=for-the-badge)
 <!-- STATS:END -->
 
 </div>
@@ -156,7 +156,7 @@ Our favourite deals this year for everyone working in **DevOps, Cloud, Kubernete
     </td>
     <td align="center" width="20%">
       <a href="#certifications">📜<br><b>Certifications</b></a><br>
-      <sub>9 deals</sub>
+      <sub>8 deals</sub>
     </td>
     <td align="center" width="20%">
       <a href="#hosting-platforms">🌐<br><b>Hosting Platforms</b></a><br>
@@ -389,18 +389,11 @@ Prove your skills with a certification. The Linux Foundation Black Friday and Cy
     <td align="center">🟢&nbsp;Live</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://www.google.com/s2/favicons?domain=linuxfoundation.org&sz=128" width="32" height="32" alt="Linux Foundation SkillCreds logo"><br><a href="https://tidd.ly/3Uc4okA"><ins><b>Linux Foundation SkillCreds</b></ins></a></td>
-    <td>Short skill certs for Git, Bash, Helm, YAML and Vim</td>
-    <td align="center">⏳</td>
-    <td align="center" nowrap><a href="https://tidd.ly/3Uc4okA"><img src="https://img.shields.io/badge/Code-Coming_Soon-f97316?style=for-the-badge&labelColor=111827" alt="Code coming soon" height="26"></a></td>
-    <td align="center">⏳&nbsp;Coming&nbsp;Soon</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.google.com/s2/favicons?domain=finops.org&sz=128" width="32" height="32" alt="FinOps Certifications logo"><br><a href="https://learn.finops.org/path/finops-certified-practitioner-self-paced"><ins><b>FinOps Certifications</b></ins></a></td>
+    <td align="center"><img src="https://www.google.com/s2/favicons?domain=finops.org&sz=128" width="32" height="32" alt="FinOps Certifications logo"><br><a href="https://kube.promo/provider/finops-certification-discount-codes/215/"><ins><b>FinOps Certifications</b></ins></a></td>
     <td>FinOps Certified Practitioner, Engineer, FOCUS Analyst and FinOps for AI</td>
-    <td align="center">⏳</td>
-    <td align="center" nowrap><a href="https://learn.finops.org/path/finops-certified-practitioner-self-paced"><img src="https://img.shields.io/badge/Code-Coming_Soon-f97316?style=for-the-badge&labelColor=111827" alt="Code coming soon" height="26"></a></td>
-    <td align="center">⏳&nbsp;Coming&nbsp;Soon</td>
+    <td align="center"><b>30%&nbsp;off</b></td>
+    <td align="center" nowrap><a href="https://kube.promo/provider/finops-certification-discount-codes/215/"><img src="https://img.shields.io/badge/Code-cyber2026comtechies-f97316?style=for-the-badge&labelColor=111827" alt="cyber2026comtechies" height="26"></a></td>
+    <td align="center">🟢&nbsp;Live</td>
   </tr>
 </table>
 
@@ -591,7 +584,7 @@ Black Friday 2026 is on **Nov 27, 2026** and Cyber Monday 2026 is on **Nov 30, 2
 - **Associate + Professional Bundles**: 60% off with code `BFCM26BUNCT`
 - **Associate Bundle**: 60% off with code `BFCM26BUNCT`
 - **Kubestronaut Bundle**: 50% off with code `BFCM26K8SCT`
-- …and 2 more in [Certifications](#certifications).
+- …and 3 more in [Certifications](#certifications).
 
 </details>
 
@@ -625,6 +618,7 @@ Black Friday 2026 is on **Nov 27, 2026** and Cyber Monday 2026 is on **Nov 30, 2
 - `BFCM26CCCT`: Kubernetes Certifications
 - `BFCM26BUNCT`: Professional Bundles
 - `BFCM26K8SCT`: Kubestronaut Bundle
+- `cyber2026comtechies`: FinOps Certifications
 - `BFCM802`: Cloudways
 - `BFCM55`: Squarespace
 - `DCUBE20OFF`: Beehiiv
@@ -634,7 +628,7 @@ Black Friday 2026 is on **Nov 27, 2026** and Cyber Monday 2026 is on **Nov 30, 2
 <details>
 <summary><b>How often is this Black Friday tracker updated?</b></summary>
 
-We check every deal during the sale and mark it 🟢 Live, ⏳ Soon or ⛔ Expired. Last checked: **Nov 27, 2026**. 33 of 41 deals are live.
+We check every deal during the sale and mark it 🟢 Live, ⏳ Soon or ⛔ Expired. Last checked: **Nov 27, 2026**. 34 of 40 deals are live.
 
 </details>
 <!-- FAQ:END -->
