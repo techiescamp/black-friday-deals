@@ -293,6 +293,13 @@ categories:
         offer: 55% off select plans
         code: BFCM55
         status: live
+      - name: Beam
+        domain: beam.cloud
+        url: https://www.beam.cloud/pricing
+        description: Serverless GPUs, sandboxes and VMs for AI apps and MLOps workloads
+        offer: 2x credits, purchases matched 1:1 up to $100 free
+        valid: Nov 27 - Nov 30, ends 11:59 PM ET
+        status: live
 
   - id: creator-tools
     faq_topic: creator tool
